@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "829831758750",
+    "firebase_url": "https://vcid-1552496778292.firebaseio.com",
+    "project_id": "vcid-1552496778292",
+    "storage_bucket": "vcid-1552496778292.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829831758750:android:9a330d35599a0a91dd0c8f",
+        "android_client_info": {
+          "package_name": "com.vcinsidedigital.a99easy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829831758750-lgcr5k23qnc14itcheq6ngl25q98s3kf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vcinsidedigital.a99easy",
+            "certificate_hash": "80f41f34736dd66c73714bf98850d44d0af98d24"
+          }
+        },
+        {
+          "client_id": "829831758750-s90b06hq42kjtki7sutqsffp9llfcoa0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7KJz8budcz5kZ6AfpDQO9I9X-0aJdb0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829831758750-s90b06hq42kjtki7sutqsffp9llfcoa0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "829831758750-csb69n9o8g7e7b2epbp7rfhkgq06el8k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vcinsidedigital.altinpolistem"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829831758750:android:b8359e4d1af1c7bbdd0c8f",
+        "android_client_info": {
+          "package_name": "com.vcinsidedigital.altinpolistem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829831758750-09mbhncu3pfmc4s4kvecre2jvf9rjqgm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vcinsidedigital.altinpolistem",
+            "certificate_hash": "700244ac108856ae3d897936b433beddb9440acf"
+          }
+        },
+        {
+          "client_id": "829831758750-s90b06hq42kjtki7sutqsffp9llfcoa0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7KJz8budcz5kZ6AfpDQO9I9X-0aJdb0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829831758750-s90b06hq42kjtki7sutqsffp9llfcoa0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "829831758750-csb69n9o8g7e7b2epbp7rfhkgq06el8k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vcinsidedigital.altinpolistem"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829831758750:android:954b58f8fcf00e5bdd0c8f",
+        "android_client_info": {
+          "package_name": "com.vcinsidedigital.novaresendetem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829831758750-5rq4hdqru9bcfek91e6ei1bjc661bi92.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vcinsidedigital.novaresendetem",
+            "certificate_hash": "80f41f34736dd66c73714bf98850d44d0af98d24"
+          }
+        },
+        {
+          "client_id": "829831758750-s90b06hq42kjtki7sutqsffp9llfcoa0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7KJz8budcz5kZ6AfpDQO9I9X-0aJdb0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829831758750-s90b06hq42kjtki7sutqsffp9llfcoa0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "829831758750-csb69n9o8g7e7b2epbp7rfhkgq06el8k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vcinsidedigital.altinpolistem"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829831758750:android:796db8049c02c860dd0c8f",
+        "android_client_info": {
+          "package_name": "com.vcinsidedigital.vcid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829831758750-nn33ml1cj6h8jq7hgp5a8ba5li2h23p8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vcinsidedigital.vcid",
+            "certificate_hash": "80f41f34736dd66c73714bf98850d44d0af98d24"
+          }
+        },
+        {
+          "client_id": "829831758750-s90b06hq42kjtki7sutqsffp9llfcoa0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7KJz8budcz5kZ6AfpDQO9I9X-0aJdb0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829831758750-s90b06hq42kjtki7sutqsffp9llfcoa0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "829831758750-csb69n9o8g7e7b2epbp7rfhkgq06el8k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vcinsidedigital.altinpolistem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
